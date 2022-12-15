@@ -9,9 +9,14 @@ This repo will help guide you through the process of developing forward and back
 - Install dependencies by running the following:
 
 `pip install mne`
+
 `pip install h5py`
+
 `pip install scikit-learn`
+
 `pip install jupyter`
+
 `python setup.py develop`
+
 
 MNE-python is a popular package for performing neuro-imaging analyses, i.e. analysing EEG, MEG, MRI data, etc... H5Py is a package for reading and writing HDF5 files (hierarchical data format files).
