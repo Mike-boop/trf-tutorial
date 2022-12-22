@@ -18,5 +18,7 @@ This repo will help guide you through the process of developing forward and back
 
 `python setup.py develop`
 
+`pip install emd`
+
 
 MNE-python is a popular package for performing neuro-imaging analyses, i.e. analysing EEG, MEG, MRI data, etc... H5Py is a package for reading and writing HDF5 files (hierarchical data format files).
